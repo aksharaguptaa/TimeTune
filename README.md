@@ -1,2 +1,2 @@
 # TimeTune
-This is an interactive website where the user such as a student or faculty member can see their weekly timetable with subjects, subject codes, credits, teacher names and teacher codes.
+ A platform that allows JUIT members to access their academic timetable through their individual IDs. It provides a convenient space for students to keep track of their schedule and stay organized throughout the semester.
